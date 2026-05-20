@@ -8,7 +8,7 @@
 ░▒▓▓▒░ ✦ ˚ . ˚ ✦ ˚ . ˚ ✦ ˚ . ˚ ✦ ░▒▓▓▒░
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=26&duration=3000&pause=800&color=C0392B&center=true&vCenter=true&repeat=true&width=650&lines=%E2%88%B4+ari+%2F+arifelmon+%2F+arifel+argani+%E2%88%B4;%E2%88%B4+management+student+%C2%B7+video+editor+%C2%B7+web+dev+%E2%88%B4;%E2%88%B4+open+for+collabs+%26+creative+projects+%E2%88%B4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=26&duration=3000&pause=800&color=C0392B&center=true&vCenter=true&repeat=true&width=650&lines=%E2%88%B4+ari+%2F+arifelmon+%E2%88%B4;%E2%88%B4+open+for+collabs+%E2%88%B4)](https://git.io/typing-svg)
 
 ```
 ⸸ · · · · ꕥ · · · · ⸸ · · · · ꕥ · · · · ⸸
@@ -30,12 +30,13 @@
 │   ✦  NAME    ·  Ari  /  Arifel Argani                        │
 │   ✦  LOC     ·  Bandung, Indonesia                           │
 │   ✦  STUDY   ·  Management Student                           │
+│   ✦  FOCUS   ·  HR Management, Leadership, Organization       │
 │   ✦  STATUS  ·  open for collabs & remote projects           │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-> *" started from curiosity. grew through obsession. still building. "*
+> *" Management student at Universitas Pendidikan Indonesia, with a focus on human resource management, leadership, and organizational development. Beyond academia — driven by curiosity: video editing, 3D motion, design, and the web. "*
 
 — management by day · editor & coder by night —
 
@@ -108,11 +109,15 @@
 ## ꕥ reach me ꕥ
 
 [![Instagram](https://img.shields.io/badge/@arifelmon-c0392b?style=for-the-badge&logo=instagram&logoColor=d4c5b5)](https://www.instagram.com/arifelmon)
+[![Instagram](https://img.shields.io/badge/@025ncy-8b0000?style=for-the-badge&logo=instagram&logoColor=d4c5b5)](https://www.instagram.com/025ncy)
+[![Discord](https://img.shields.io/badge/arifelmon-2c1a1a?style=for-the-badge&logo=discord&logoColor=d4c5b5)](#)
 [![GitHub](https://img.shields.io/badge/arifelmon-0a0a0a?style=for-the-badge&logo=github&logoColor=d4c5b5)](https://github.com/arifelmon)
 
 ```
 ╔══════════════════════════════════════════╗
 ║   ✦  instagram  ·  @arifelmon            ║
+║   ✦  instagram  ·  @025ncy               ║
+║   ✦  discord    ·  arifelmon             ║
 ║   ✦  github     ·  arifelmon             ║
 ║   ✦  location   ·  Bandung, Indonesia    ║
 ║   ✦  status     ·  open for collabs ✦   ║
