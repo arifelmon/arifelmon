@@ -36,7 +36,7 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-> *" Management student at Universitas Pendidikan Indonesia, with a focus on human resource management, leadership, and organizational development. Beyond academia — driven by curiosity: video editing, 3D motion, design, and the web. "*
+> *" Management student at Universities on Bandung, with a focus on human resource management, leadership, and organizational development. Beyond academia — driven by curiosity: video editing, 3D motion, design, and the web. "*
 
 — management by day · editor & coder by night —
 
