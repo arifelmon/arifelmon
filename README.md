@@ -30,7 +30,7 @@
 │   ✦  NAME    ·  Ari  /  Arifel Argani                        │
 │   ✦  LOC     ·  Bandung, Indonesia                           │
 │   ✦  STUDY   ·  Management Student                           │
-│   ✦  FOCUS   ·  HR Management, Leadership, Organization       │
+│   ✦  FOCUS   ·  HR Management, Leadership, Organization      │
 │   ✦  STATUS  ·  open for collabs & remote projects           │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
