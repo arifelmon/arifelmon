@@ -30,7 +30,6 @@
 │   ✦  NAME    ·  Ari  /  Arifel Argani                        │
 │   ✦  LOC     ·  Bandung, Indonesia                           │
 │   ✦  STUDY   ·  Management Student                           │
-│   ✦  VIBE    ·  where spreadsheets meet timelines            │
 │   ✦  STATUS  ·  open for collabs & remote projects           │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
@@ -66,8 +65,35 @@
 
 ## ⸸ stats ⸸
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=arifelmon&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=c0392b&icon_color=8b0000&text_color=d4c5b5&ring_color=8b0000&count_private=true&include_all_commits=true" />
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifelmon&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=c0392b&text_color=d4c5b5&langs_count=6" />
+<!-- 
+  ⚠️ STATS SETUP — baca dulu sebelum push!
+  
+  github-readme-stats (2 card atas) → public instance sering down karena rate limit.
+  Solusi: fork repo-nya terus deploy ke Vercel kamu sendiri (gratis).
+  
+  Langkah:
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Buka vercel.com → New Project → import fork tadi
+  3. Add environment variable: PAT_1 = GitHub Personal Access Token kamu
+     (buat di github.com/settings/tokens → Classic → centang "repo" + "read:user")
+  4. Deploy → dapat URL genre "github-readme-stats-arifelmon.vercel.app"
+  5. Ganti URL di bawah dari github-readme-stats.vercel.app → URL kamu
+
+  Kalau males self-host, bisa coba cache trick: tambah &cache_seconds=86400 di URL.
+-->
+
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=arifelmon&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=c0392b&icon_color=8b0000&text_color=d4c5b5&ring_color=8b0000&count_private=true&include_all_commits=true&cache_seconds=86400" />
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifelmon&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=c0392b&text_color=d4c5b5&langs_count=6&cache_seconds=86400" />
+
+<br/>
+
+<!--
+  Streak stats → demolab.com sering down.
+  Mirror yang works: github-readme-streak-stats-eight.vercel.app
+  Atau self-host: https://github.com/DenverCoder1/github-readme-streak-stats
+-->
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=arifelmon&hide_border=true&background=0a0a0a&ring=8b0000&fire=c0392b&currStreakLabel=d4c5b5&sideLabels=d4c5b5&currStreakNum=c0392b&sideNums=d4c5b5&dates=6b5b5b&stroke=2d0000" width="49%"/>
 
 <br/>
 
